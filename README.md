@@ -4,7 +4,9 @@
 
 ### Kaggle Competitions I participated using Python and Sklearn
 
-Kaggle Profile URL:=https://www.kaggle.com/pythonkumar
+#### Kaggle - https://www.kaggle.com/pythonkumar
+#### Twitter - https://twitter.com/KumarPython
+#### LinkedIn - https://www.linkedin.com/in/kumarpython/
 
 Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges.
 
